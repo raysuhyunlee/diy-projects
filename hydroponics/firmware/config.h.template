@@ -1,0 +1,11 @@
+#pragma once
+
+// Copy to config.h and fill in. config.h is gitignored.
+
+#define WIFI_SSID "your-ssid"
+#define WIFI_PASSWORD "your-password"
+
+// POSIX TZ (e.g. KST: "KST-9", UTC: "UTC0", PST/PDT: "PST8PDT,M3.2.0,M11.1.0").
+#define TIMEZONE "KST-9"
+
+#define HOSTNAME "hydroponics"

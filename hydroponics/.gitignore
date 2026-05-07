@@ -1,0 +1,5 @@
+firmware/config.h
+build/
+*.bin
+*.elf
+.DS_Store
